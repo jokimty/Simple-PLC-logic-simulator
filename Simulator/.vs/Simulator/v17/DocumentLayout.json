@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{3D952577-C7B5-431A-8777-2FA72E4D370E}|Simulator.csproj|solutionrelative:simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D952577-C7B5-431A-8777-2FA72E4D370E}|Simulator.csproj|c:\\01_ekstra\\programmering\\plclogicsimulator\\simulator\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3D952577-C7B5-431A-8777-2FA72E4D370E}|Simulator.csproj|C:\\01_ekstra\\Programmering\\PLCLogicSimulator\\Simulator\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3D952577-C7B5-431A-8777-2FA72E4D370E}|Simulator.csproj|solutionrelative:simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Simulator.cs",
               "ToolTip": "C:\\01_ekstra\\Programmering\\PLCLogicSimulator\\Simulator\\Simulator.cs",
               "RelativeToolTip": "Simulator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T17:33:18.379Z",
               "EditorCaption": ""

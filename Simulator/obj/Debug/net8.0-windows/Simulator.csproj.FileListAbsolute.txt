@@ -1,0 +1,17 @@
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\bin\Debug\net8.0-windows\Simulator.exe
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\bin\Debug\net8.0-windows\Simulator.deps.json
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\bin\Debug\net8.0-windows\Simulator.runtimeconfig.json
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\bin\Debug\net8.0-windows\Simulator.dll
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\bin\Debug\net8.0-windows\Simulator.pdb
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\Simulator.Simulator.resources
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\Simulator.csproj.GenerateResource.cache
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\Simulator.AssemblyInfoInputs.cache
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\Simulator.AssemblyInfo.cs
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\Simulator.csproj.CoreCompileInputs.cache
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\Simulator.sourcelink.json
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\Simulator.dll
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\refint\Simulator.dll
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\Simulator.pdb
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\Simulator.genruntimeconfig.cache
+C:\01_ekstra\Programmering\PLCLogicSimulator\Simulator\obj\Debug\net8.0-windows\ref\Simulator.dll
