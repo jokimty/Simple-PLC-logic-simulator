@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\01_ekstra\\Programmering\\PLCLogicSimulator\\Simulator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D952577-C7B5-431A-8777-2FA72E4D370E}|Simulator.csproj|c:\\01_ekstra\\programmering\\plclogicsimulator\\simulator\\inputbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D952577-C7B5-431A-8777-2FA72E4D370E}|Simulator.csproj|solutionrelative:inputbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D952577-C7B5-431A-8777-2FA72E4D370E}|Simulator.csproj|c:\\01_ekstra\\programmering\\plclogicsimulator\\simulator\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D952577-C7B5-431A-8777-2FA72E4D370E}|Simulator.csproj|solutionrelative:simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D952577-C7B5-431A-8777-2FA72E4D370E}|Simulator.csproj|c:\\01_ekstra\\programmering\\plclogicsimulator\\simulator\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D952577-C7B5-431A-8777-2FA72E4D370E}|Simulator.csproj|solutionrelative:simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputButton.cs",
+              "DocumentMoniker": "C:\\01_ekstra\\Programmering\\PLCLogicSimulator\\Simulator\\InputButton.cs",
+              "RelativeDocumentMoniker": "InputButton.cs",
+              "ToolTip": "C:\\01_ekstra\\Programmering\\PLCLogicSimulator\\Simulator\\InputButton.cs",
+              "RelativeToolTip": "InputButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:06:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulator.cs",
+              "DocumentMoniker": "C:\\01_ekstra\\Programmering\\PLCLogicSimulator\\Simulator\\Simulator.cs",
+              "RelativeDocumentMoniker": "Simulator.cs",
+              "ToolTip": "C:\\01_ekstra\\Programmering\\PLCLogicSimulator\\Simulator\\Simulator.cs",
+              "RelativeToolTip": "Simulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:02:54.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simulator.cs [Design]",
+              "DocumentMoniker": "C:\\01_ekstra\\Programmering\\PLCLogicSimulator\\Simulator\\Simulator.cs",
+              "RelativeDocumentMoniker": "Simulator.cs",
+              "ToolTip": "C:\\01_ekstra\\Programmering\\PLCLogicSimulator\\Simulator\\Simulator.cs [Design]",
+              "RelativeToolTip": "Simulator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:02:51.551Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

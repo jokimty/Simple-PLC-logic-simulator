@@ -1,5 +1,3 @@
-using System;
-
 namespace Simulator
 {
     #region #Initialize instance variables
