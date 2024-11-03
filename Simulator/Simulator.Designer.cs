@@ -68,7 +68,7 @@
             btnSaveToFiles.Location = new Point(12, 362);
             btnSaveToFiles.Name = "btnSaveToFiles";
             btnSaveToFiles.Size = new Size(104, 23);
-            btnSaveToFiles.TabIndex = 3;
+            btnSaveToFiles.TabIndex = 4;
             btnSaveToFiles.Text = "Save setup to file";
             btnSaveToFiles.UseVisualStyleBackColor = true;
             btnSaveToFiles.Click += btnSaveToFiles_Click;
@@ -78,7 +78,7 @@
             btnStartStopSimulation.Location = new Point(12, 403);
             btnStartStopSimulation.Name = "btnStartStopSimulation";
             btnStartStopSimulation.Size = new Size(104, 40);
-            btnStartStopSimulation.TabIndex = 4;
+            btnStartStopSimulation.TabIndex = 5;
             btnStartStopSimulation.Text = "Start/Stop simulation";
             btnStartStopSimulation.UseVisualStyleBackColor = true;
             btnStartStopSimulation.Click += btnStartStopSimulation_Click;
@@ -107,7 +107,7 @@
             txtOutputsFromSimulation.Name = "txtOutputsFromSimulation";
             txtOutputsFromSimulation.ReadOnly = true;
             txtOutputsFromSimulation.Size = new Size(262, 23);
-            txtOutputsFromSimulation.TabIndex = 7;
+            txtOutputsFromSimulation.TabIndex = 6;
             // 
             // linkToGitHub
             // 
@@ -115,7 +115,7 @@
             linkToGitHub.Location = new Point(12, 115);
             linkToGitHub.Name = "linkToGitHub";
             linkToGitHub.Size = new Size(67, 15);
-            linkToGitHub.TabIndex = 8;
+            linkToGitHub.TabIndex = 3;
             linkToGitHub.TabStop = true;
             linkToGitHub.Text = "GitHub link";
             linkToGitHub.LinkClicked += linkToGitHub_LinkClicked;
@@ -136,6 +136,7 @@
             Controls.Add(txtInputNumber);
             Name = "Simulator";
             Text = "PLC Simulator";
+            Resize += Simulator_Resize;
             ResumeLayout(false);
             PerformLayout();
         }
