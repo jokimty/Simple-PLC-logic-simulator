@@ -11,13 +11,19 @@ namespace Simulator
             //Make the app fill the whole screen except the taskbar.
             this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea; this.WindowState = FormWindowState.Maximized;
             //This will also trigger the Simulator_Resize eventhandler to call the PositionUIElements method.
-            //PositionUIElements(this.Width, this.Height);
+            
         }
 
         #region #UI elements
         private void PositionUIElements(int width, int height)
         {
-
+            /*
+            List of elements;
+            label1, label2, txtInputNumber, txtOutputNumber, btnChooseIOs, linkToGitHub, btnSaveToFiles, btnStartStopSimulation, txtOutputsFromSimulation
+            */
+            btnSaveToFiles.Location = new Point(12, height - 150);
+            btnStartStopSimulation.Location = new Point(12, height - 100);
+            txtOutputsFromSimulation.Location = new Point(150, height - 100);
         }
         private void CreateInputSwitches(int numberOfInputs)
         {
@@ -28,6 +34,7 @@ namespace Simulator
         }
         private void CalculateSwitchSize(int numberOfInputs)
         {
+
         }
         #endregion
 
@@ -74,9 +81,8 @@ namespace Simulator
         }
         private void Simulator_Resize(object sender, EventArgs e)
         {
-            //This seems agressive, try to find a better way / test this quite a lot. 
+            //Makes sure elements keep their intended position when resizing the window
             PositionUIElements(this.Width, this.Height);
-            //MessageBox.Show("Test!"); //This testing message is also very agressive.
         }
         #endregion
     }

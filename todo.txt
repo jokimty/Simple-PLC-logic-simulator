@@ -1,13 +1,6 @@
 implement following methods;
-PositionUIElements
 CreateInputSwitches
     which requires CalculateSwitchSize
     to then do some more logic to position the switches to line up with what is already implemented in the PositionUIElements method.
 
 Test how the resize eventhandler works after positionUIElements has been implemented
-
-Make Input switches via classes? probably.
-Said classes would need:
-    bool state; 
-    Button buttonToSwitchState;
-    EventHandler activateLogic?

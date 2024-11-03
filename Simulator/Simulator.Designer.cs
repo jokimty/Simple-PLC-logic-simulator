@@ -105,6 +105,7 @@
             // 
             txtOutputsFromSimulation.Location = new Point(165, 413);
             txtOutputsFromSimulation.Name = "txtOutputsFromSimulation";
+            txtOutputsFromSimulation.PlaceholderText = "Output";
             txtOutputsFromSimulation.ReadOnly = true;
             txtOutputsFromSimulation.Size = new Size(262, 23);
             txtOutputsFromSimulation.TabIndex = 6;
